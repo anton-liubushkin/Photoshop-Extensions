@@ -12,7 +12,7 @@
 - [ ] CC 2014
 - [ ] CC 2015
 - [ ] CC 2015.5
-- [ ] CC 2017
+- [x] CC 2017
 
 **Link to official page:**
 [http://example.com/ps-extension](my store)
