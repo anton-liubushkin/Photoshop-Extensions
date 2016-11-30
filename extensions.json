@@ -1,0 +1,16 @@
+[
+  {
+    "title": "UberStock",
+    "description": "Free hi-resolution stock photos in your Photoshop.",
+    "author": "UberPlugins",
+    "tags": "photo, stock, photostock, image, picture",
+    "supported": {
+      "CS6": false,
+      "CC": true,
+      "CC 2014": true,
+      "CC 2015.5": true,
+      "CC 2017": true,
+    },
+    "link": "https://gum.co/uberstock"
+  },
+]
